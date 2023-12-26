@@ -68,4 +68,4 @@ Join [CodeWars](https://www.codewars.com) and follow [me](https://www.codewars.c
 <br>
 
 | Kata(s) | Solution(s) | Subject | CW Link |
-|--|--|--|--|
+| [**Fake Binary*](8kyuKatas/fake_binary.md)  | 1 | `strings`,`arrays`, `fundamentals` | [link](https://www.codewars.com/kata/57eae65a4321032ce000002d/python) |
