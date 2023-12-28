@@ -23,6 +23,7 @@ Join [CodeWars](https://www.codewars.com) and follow [me](https://www.codewars.c
 
 | Kata(s) | Solution(s) | Subject | CW Link |
 |--|--|--|--|
+| [**String incrementer*](5kyuKatas/string_incrementer.md)  | 1 | `regular expressions`, `strings` | [link](https://www.codewars.com/kata/54a91a4883a7de5d7800009c/python) |
 
 
 <br>
