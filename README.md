@@ -39,6 +39,7 @@ Join [CodeWars](https://www.codewars.com) and follow [me](https://www.codewars.c
 | Kata(s) | Solution(s) | Subject | CW Link |
 |--|--|--|--|
 | [**Break camelCase*](6kyuKatas/Break_camelCase.md)  | 1 | `strings`, `fundamentals` | [link](https://www.codewars.com/kata/5208f99aee097e6552000148) |
+| [**Replace with alphabet position*](6kyuKatas/replace_with_alphabet.md)  | 1 | `strings`, `fundamentals` | [link](https://www.codewars.com/kata/546f922b54af40e1e90001da/train/python) |
 
 
 
