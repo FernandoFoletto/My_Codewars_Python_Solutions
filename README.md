@@ -40,6 +40,7 @@ Join [CodeWars](https://www.codewars.com) and follow [me](https://www.codewars.c
 |--|--|--|--|
 | [**Break camelCase*](6kyuKatas/Break_camelCase.md)  | 1 | `strings`, `fundamentals` | [link](https://www.codewars.com/kata/5208f99aee097e6552000148) |
 | [**Replace with alphabet position*](6kyuKatas/replace_with_alphabet.md)  | 1 | `strings`, `fundamentals` | [link](https://www.codewars.com/kata/546f922b54af40e1e90001da/train/python) |
+| [**Count the smiley faces!*](6kyuKatas/count_smiley.md)  | 1 | `regular expressions`, `fundamentals` | [link](https://www.codewars.com/kata/583203e6eb35d7980400002a/train/python) |
 
 
 
@@ -72,3 +73,4 @@ Join [CodeWars](https://www.codewars.com) and follow [me](https://www.codewars.c
 | Kata(s) | Solution(s) | Subject | CW Link |
 |--|--|--|--|
 | [**Fake Binary*](8kyuKatas/fake_binary.md)  | 1 | `strings`,`arrays`, `fundamentals` | [link](https://www.codewars.com/kata/57eae65a4321032ce000002d/python) |
+| [**Switch it up!*](8kyuKatas/switch_it_up.md)  | 1 | `fundamentals` | [link](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/train/python) |
